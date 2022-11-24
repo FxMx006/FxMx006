@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello, I'm Felix as well as I've been programming in Python for a year. <br>🌱 Currently, I am working my way into the topic of Artificial Intelligence.<br>⚡ Besides programming, I listen to endifferent music and play computer <br> games.
+🔭 Hello, I'm Felix as well as I've been programming in Python for a year. <br>🌱 Currently, I am working my way into the topic of Artificial Intelligence.<br>⚡ Besides programming, I listen to endifferent music and play computer games.
 <br>
 
 # 💻 Tech Stack:
@@ -16,4 +16,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FxMx006&icon=0&color=0)](https://visitcount.itsvg.in)
+
